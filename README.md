@@ -1,6 +1,6 @@
 # 🍕 Pizza-Track – Sistema Undo/Redo con Pilas en Java Actualizarse 
 
-## 📌 Objetivo
+## 📌 Objetivo  Descripcion de objetivos 
 Comprender el concepto de **pila (stack)** y su estructura lógica mediante la implementación de un simulador de gestión de pedidos para una pizzería, aplicando las operaciones **Undo (Deshacer)** y **Redo (Rehacer)**.  
 El proyecto utiliza **pilas manuales basadas en listas ligadas**, arreglos de tamaño fijo y buenas prácticas de programación en Java.
 
