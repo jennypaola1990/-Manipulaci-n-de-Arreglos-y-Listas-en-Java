@@ -39,7 +39,7 @@ Métodos implementados:
 
 ---
 
-## 📋 Funcionalidades del Menú
+## 📋 Funcionalidades del Menú añadir mas productos
 
 1. **Registrar Pizza**  
    Permite ingresar el nombre de la pizza y 3 ingredientes.  
